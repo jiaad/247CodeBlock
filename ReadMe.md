@@ -43,6 +43,7 @@ to contribute Just add your links here
 ## Best Free Platforms
 
 - [FreeCodeCamp](https://freecodecamp.org)
+- [The Odin Project: ruby, RoR,JS etc] (https://www.theodinproject.com/courses)
 
 ## Best Paid Platforms
 
